@@ -1,345 +1,345 @@
 {
-  "keys": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-  "middleware": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
+  "keys": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+  "middleware": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
   "wxApp": {
     "design": {
-      "appid": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-      "secret": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js"
+      "appid": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+      "secret": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js"
     },
-    "MchId": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-    "MchKey": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js"
+    "MchId": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "MchKey": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js"
   },
   "session": {
-    "key": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-    "httpOnly": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-    "maxAge": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-    "renew": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-    "encrypt": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-session/config/config.default.js",
-    "logValue": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-session/config/config.default.js"
+    "key": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "httpOnly": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "maxAge": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "renew": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "encrypt": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-session/config/config.default.js"
   },
   "sequelize": {
-    "dialect": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-    "host": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-    "port": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-    "user": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-    "password": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-    "logging": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-    "timezone": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
+    "dialect": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "host": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "port": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "user": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "password": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "logging": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "timezone": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
     "dialectOptions": {
-      "dateStrings": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-      "typeCast": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js"
+      "dateStrings": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+      "typeCast": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js"
     },
-    "database": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
+    "database": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
     "define": {
-      "freezeTableName": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-      "timestamps": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-      "paranoid": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-      "createdAt": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-      "updatedAt": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-      "deletedAt": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-      "underscored": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js"
+      "freezeTableName": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+      "timestamps": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+      "paranoid": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+      "createdAt": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+      "updatedAt": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+      "deletedAt": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+      "underscored": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js"
     },
-    "username": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-sequelize/config/config.default.js"
+    "username": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-sequelize/config/config.default.js"
   },
   "jwt": {
-    "secret": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-    "enable": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-jwt/config/config.default.js"
+    "secret": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "enable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-jwt/config/config.default.js"
   },
-  "salt": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-  "redisExpire": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
+  "salt": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+  "redisExpire": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
   "security": {
-    "csrf": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-    "domainWhiteList": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-    "protocolWhiteList": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-security/config/config.default.js",
-    "defaultMiddleware": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-security/config/config.default.js",
+    "csrf": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "domainWhiteList": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "protocolWhiteList": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js",
     "xframe": {
-      "enable": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-security/config/config.default.js",
-      "value": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js"
     },
     "hsts": {
-      "enable": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-security/config/config.local.js",
-      "maxAge": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-security/config/config.default.js",
-      "includeSubdomains": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js"
     },
     "dta": {
-      "enable": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js"
     },
     "methodnoallow": {
-      "enable": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js"
     },
     "noopen": {
-      "enable": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js"
     },
     "nosniff": {
-      "enable": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js"
     },
     "referrerPolicy": {
-      "enable": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-security/config/config.default.js",
-      "value": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js"
     },
     "xssProtection": {
-      "enable": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-security/config/config.default.js",
-      "value": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js"
     },
     "csp": {
-      "enable": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-security/config/config.default.js",
-      "policy": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js"
     },
     "ssrf": {
-      "ipBlackList": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-security/config/config.default.js",
-      "ipExceptionList": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-security/config/config.default.js",
-      "checkAddress": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-security/config/config.default.js"
+      "ipBlackList": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js"
     }
   },
   "multipart": {
-    "mode": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-    "whitelist": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-    "fileSize": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
-    "autoFields": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-multipart/config/config.default.js",
-    "defaultCharset": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-multipart/config/config.default.js",
-    "fieldNameSize": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-multipart/config/config.default.js",
-    "fieldSize": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-multipart/config/config.default.js",
-    "fields": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-multipart/config/config.default.js",
-    "files": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-multipart/config/config.default.js",
-    "fileExtensions": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-multipart/config/config.default.js",
-    "allowArrayField": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-multipart/config/config.default.js",
-    "tmpdir": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-multipart/config/config.default.js",
+    "mode": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "whitelist": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "fileSize": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "autoFields": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-multipart/config/config.default.js",
     "cleanSchedule": {
-      "cron": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-multipart/config/config.default.js",
-      "disable": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-multipart/config/config.default.js"
+      "cron": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-multipart/config/config.default.js"
     }
   },
-  "jwtSecret": "/Users/liaoshen/Desktop/Gitee/design/design-node/config/config.default.js",
+  "jwtSecret": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
   "helper": {
-    "shtml": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-security/config/config.default.js"
+    "shtml": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js"
   },
   "jsonp": {
-    "limit": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-jsonp/config/config.default.js",
-    "callback": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-jsonp/config/config.default.js",
-    "csrf": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-jsonp/config/config.default.js"
+    "limit": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-jsonp/config/config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-onerror/config/config.default.js",
-    "appErrorFilter": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-onerror/config/config.default.js",
-    "templatePath": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-onerror/config/config.default.js"
+    "errorPageUrl": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-onerror/config/config.default.js"
   },
   "i18n": {
-    "defaultLocale": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-i18n/config/config.default.js",
-    "dirs": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-i18n/config/config.default.js",
-    "queryField": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-i18n/config/config.default.js",
-    "cookieField": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-i18n/config/config.default.js",
-    "cookieDomain": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-i18n/config/config.default.js",
-    "cookieMaxAge": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-i18n/config/config.default.js"
+    "defaultLocale": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-i18n/config/config.default.js"
   },
   "watcher": {
-    "type": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-watcher/config/config.local.js",
+    "type": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-watcher/config/config.local.js",
     "eventSources": {
-      "default": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-watcher/config/config.default.js",
-      "development": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-watcher/config/config.default.js"
+      "default": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-watcher/config/config.default.js"
     }
   },
   "customLogger": {
     "scheduleLogger": {
-      "consoleLevel": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-schedule/config/config.default.js",
-      "file": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-schedule/config/config.default.js"
+      "consoleLevel": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-schedule/config/config.default.js"
     }
   },
   "schedule": {
-    "directory": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-schedule/config/config.default.js"
+    "directory": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-schedule/config/config.default.js"
   },
   "development": {
-    "watchDirs": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-development/config/config.default.js",
-    "ignoreDirs": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-development/config/config.default.js",
-    "fastReady": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-development/config/config.default.js",
-    "reloadOnDebug": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-development/config/config.default.js",
-    "overrideDefault": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-development/config/config.default.js",
-    "overrideIgnore": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-development/config/config.default.js"
+    "watchDirs": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-development/config/config.default.js"
   },
   "logrotator": {
-    "filesRotateByHour": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-logrotator/config/config.default.js",
-    "hourDelimiter": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-logrotator/config/config.default.js",
-    "filesRotateBySize": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-logrotator/config/config.default.js",
-    "maxFileSize": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-logrotator/config/config.default.js",
-    "maxFiles": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-logrotator/config/config.default.js",
-    "rotateDuration": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-logrotator/config/config.default.js",
-    "maxDays": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-logrotator/config/config.default.js"
+    "filesRotateByHour": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-logrotator/config/config.default.js"
   },
   "static": {
-    "prefix": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-static/config/config.default.js",
-    "dir": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-static/config/config.default.js",
-    "dynamic": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-static/config/config.default.js",
-    "preload": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-static/config/config.default.js",
-    "buffer": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-static/config/config.default.js",
-    "maxFiles": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-static/config/config.default.js"
+    "prefix": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-static/config/config.default.js"
   },
   "view": {
-    "root": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-view/config/config.default.js",
-    "cache": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-view/config/config.local.js",
-    "defaultExtension": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-view/config/config.default.js",
-    "defaultViewEngine": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-view/config/config.default.js",
-    "mapping": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-view/config/config.default.js"
+    "root": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-view/config/config.default.js"
   },
-  "cors": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-cors/config/config.default.js",
-  "validate": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg-validate/config/config.default.js",
-  "env": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-  "name": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-  "cookies": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-  "proxy": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-  "maxIpsCount": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-  "maxProxyCount": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-  "protocolHeaders": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-  "ipHeaders": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-  "hostHeaders": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
+  "cors": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-cors/config/config.default.js",
+  "validate": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-validate/config/config.default.js",
+  "env": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+  "name": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
   "pkg": {
-    "name": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "version": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "description": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "private": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
+    "name": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "version": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "description": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "private": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
     "egg": {
-      "declarations": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js"
+      "declarations": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
     },
     "dependencies": {
-      "bcryptjs": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "dayjs": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "egg": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "egg-cors": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "egg-jwt": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "egg-scripts": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "egg-sequelize": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "egg-validate": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "jsonwebtoken": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "md5": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "mysql2": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "nanoid": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "svg-captcha": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "uuid": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "xml-js": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "xml2js": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js"
+      "bcryptjs": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "dayjs": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "egg": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "egg-jwt": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "egg-sequelize": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "egg-validate": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "jsonwebtoken": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "md5": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "mysql2": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "nanoid": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "svg-captcha": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "uuid": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "xml-js": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "xml2js": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
     },
     "devDependencies": {
-      "autod": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "autod-egg": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "egg-bin": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "egg-ci": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "egg-mock": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "eslint": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "eslint-config-egg": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js"
+      "autod": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
     },
     "engines": {
-      "node": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js"
+      "node": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
     },
     "scripts": {
-      "start": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "stop": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "dev": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "debug": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "test": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "test-local": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "cov": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "lint": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "ci": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "autod": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js"
+      "start": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "stop": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "dev": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "debug": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "test": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "cov": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "lint": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "ci": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "autod": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
     },
     "ci": {
-      "version": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js"
+      "version": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
     },
     "repository": {
-      "type": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "url": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js"
+      "type": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "url": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
     },
-    "author": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "license": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js"
+    "author": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "license": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
   },
-  "baseDir": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-  "HOME": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-  "rundir": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
+  "baseDir": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
   "dump": {
-    "ignore": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js"
+    "ignore": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
   },
   "confusedConfigurations": {
-    "bodyparser": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "notFound": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "sitefile": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "middlewares": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "httpClient": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js"
+    "bodyparser": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
   },
   "notfound": {
-    "pageUrl": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js"
+    "pageUrl": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "cacheControl": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js"
+    "/favicon.ico": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "cacheControl": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
   },
   "bodyParser": {
-    "enable": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "encoding": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "formLimit": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "jsonLimit": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "textLimit": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "strict": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
+    "enable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "strict": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
     "queryString": {
-      "arrayLimit": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "depth": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "parameterLimit": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js"
+      "arrayLimit": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "depth": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
     },
-    "onerror": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js"
+    "onerror": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
   },
   "logger": {
-    "dir": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "encoding": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "env": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "level": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "consoleLevel": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "disableConsoleAfterReady": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "outputJSON": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "buffer": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "appLogName": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "coreLogName": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "agentLogName": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "errorLogName": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
+    "dir": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "env": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "level": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
     "coreLogger": {
-      "consoleLevel": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.local.js"
+      "consoleLevel": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.local.js"
     },
-    "allowDebugAtProd": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "enablePerformanceTimer": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js"
+    "allowDebugAtProd": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "enablePerformanceTimer": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "dnsCacheLookupInterval": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "dnsCacheMaxLength": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
+    "enableDNSCache": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
     "request": {
-      "timeout": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js"
+      "timeout": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "freeSocketTimeout": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "maxSockets": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "maxFreeSockets": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js"
+      "keepAlive": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "freeSocketTimeout": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "maxSockets": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "maxFreeSockets": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js"
+      "keepAlive": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
     }
   },
   "meta": {
-    "enable": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "logging": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js"
+    "enable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "logging": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
   },
-  "coreMiddleware": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-  "workerStartTimeout": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-  "serverTimeout": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
+  "coreMiddleware": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
   "cluster": {
     "listen": {
-      "path": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "port": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-      "hostname": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js"
+      "path": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "port": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
     }
   },
   "clusterClient": {
-    "maxWaitTime": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js",
-    "responseTimeout": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js"
+    "maxWaitTime": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
   },
-  "onClientError": "/Users/liaoshen/Desktop/Gitee/design/design-node/node_modules/egg/config/config.default.js"
+  "onClientError": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
 }

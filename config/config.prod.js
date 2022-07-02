@@ -7,7 +7,6 @@
 const fs = require("fs")
 const path = require("path")
 module.exports = (appInfo) => {
-  console.log('当前环境【prod】：',appInfo.env);
   const config = (exports = {})
   config.keys = appInfo.name + "_karrys"
   config.middleware = []
@@ -32,17 +31,17 @@ module.exports = (appInfo) => {
   }
   config.sequelize = {
     dialect: "mysql",
-    host: "127.0.0.1",
+    host: "139.155.77.110",
     port: 3306,
-    user: "design",
-    password: "root",
+    user: "stacy",
+    password: "litao1884873780",
     logging: true,
     timezone: "+08:00",
     dialectOptions: {
       dateStrings: true,
       typeCast: true,
     },
-    database: "design",
+    database: "stacy",
     define: {
       freezeTableName: true, //false为复数形式+s
       timestamps: false, // 关闭创建 更新 删除时间
