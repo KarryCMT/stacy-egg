@@ -31,10 +31,10 @@ module.exports = (appInfo) => {
   }
   config.sequelize = {
     dialect: "mysql",
-    host: "139.155.77.110",
+    host: "localhost",
     port: 3306,
-    user: "stacy",
-    password: "litao1884873780",
+    user: "root",
+    password: "1884873780",
     logging: true,
     timezone: "+08:00",
     dialectOptions: {
@@ -45,7 +45,7 @@ module.exports = (appInfo) => {
     define: {
       freezeTableName: true, //false为复数形式+s
       timestamps: false, // 关闭创建 更新 删除时间
-      paranoid: false,// 是否必须传入时间戳
+      paranoid: false, // 是否必须传入时间戳
       createdAt: "created_at",
       updatedAt: "updated_at",
       deletedAt: "deleted_at",

@@ -1,33 +1,27 @@
-const bcrypt = require('bcryptjs')
+const bcrypt = require('bcryptjs');
 module.exports = (app) => {
-  const { STRING, INTEGER,DOUBLE, TEXT, DATE } = app.Sequelize
-  const User = app.model.define("user", {
-    id: { type: INTEGER, primaryKey: true, autoIncrement: true },
-    user_name: STRING(20),
-    user_id: { type: STRING(50), unique: true },
-    encrypt: { type: STRING(64) },
-    role_id: { type: INTEGER, unique: true },
-    password: {
-      type: STRING(64),
-      set(val) {
-        // 生成盐
-        const salt = bcrypt.genSaltSync(10)
-        // 给密码加盐hashSync(原密码,salt)
-        const psw = bcrypt.hashSync(val, salt)
-        // 保存到数据库
-        this.setDataValue("password", psw)
-      },
-    },
-    avatar: TEXT("long"),
-    introduction: STRING(100),
-    nick_name:STRING(255),
-    balance:DOUBLE,
-    phone: STRING(20),
-    roles: STRING(20),
-    openid: STRING(255),
-    avatar_url: STRING(200),
-    gender: INTEGER,
-  })
+  const { STRING,BIGINT, INTEGER, DOUBLE, TEXT, DATE } = app.Sequelize;
+  const User = app.model.define('stacy_user', {
+    userId: { type: BIGINT, primaryKey: true },
+    userName: STRING(100),
+    password: STRING(64),
+    target: INTEGER,
+    targetCity: STRING(255),
+    maxMoney: INTEGER,
+    stayDate: DATE,
+    sex: INTEGER,
+    birthDate: DATE,
+    phone:  STRING(11),
+    email:  STRING(20),
+    occupation:  STRING(10),
+    workPlace:  STRING(255),
+    profile:  STRING(255),
+    photo:  TEXT,
+    created_at: DATE,
+    updated_at: DATE,
+    deleted_at: DATE,
 
-  return User
-}
+  });
+
+  return User;
+};

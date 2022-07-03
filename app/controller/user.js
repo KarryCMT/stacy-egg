@@ -12,7 +12,7 @@ class UserController extends BaseController {
   async register() {
     const { ctx, service } = this
     const body = ctx.request.body
-    body.user_id = Date.now()
+    body.userId = Date.now()
     const result = await service.user.addUser(body)
     if (result) {
       this.Success({ message: "新增成功" })

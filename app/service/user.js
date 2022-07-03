@@ -18,11 +18,13 @@ class UserService extends Service {
   }
   //新增用户信息
   async addUser(params) {
+    console.log(params,'注册');
     try {
       const { ctx } = this
       const result = await ctx.model.User.create(params)
       return result
     } catch (error) {
+      console.log(error,"error");
       return null
     }
   }
