@@ -33,7 +33,7 @@ module.exports = (appInfo) => {
     host: "localhost",
     port: 3306,
     user: "root",
-    password: "root",
+    password: "1884873780",
     logging: true,
     timezone: "+08:00",
     dialectOptions: {
@@ -63,7 +63,14 @@ module.exports = (appInfo) => {
     csrf: false,
     domainWhiteList: ["*"], //白名单IP无跨域问题
   }
-
+  config.redis = {
+    client: {
+      port: 6379,          // Redis port
+      host: '127.0.0.1',   // Redis host
+      password: 'auth',
+      db: 0,
+    },
+  }
   userConfig.multipart = {
     mode: "file",
     whitelist: [

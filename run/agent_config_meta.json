@@ -1,345 +1,358 @@
 {
-  "keys": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-  "middleware": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
+  "keys": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+  "middleware": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
   "wxApp": {
     "design": {
-      "appid": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-      "secret": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js"
-    },1
-    "MchId": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-    "MchKey": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js"
+      "appid": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+      "secret": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js"
+    },
+    "MchId": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "MchKey": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js"
   },
   "session": {
-    "key": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-    "httpOnly": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-    "maxAge": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-    "renew": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-    "encrypt": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-session\\config\\config.default.js",
-    "logValue": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-session\\config\\config.default.js"
+    "key": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "httpOnly": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "maxAge": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "renew": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "encrypt": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-session/config/config.default.js"
   },
   "sequelize": {
-    "dialect": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-    "host": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-    "port": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-    "user": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-    "password": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-    "logging": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-    "timezone": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
+    "dialect": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "host": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "port": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "user": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "password": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "logging": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "timezone": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
     "dialectOptions": {
-      "dateStrings": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-      "typeCast": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js"
+      "dateStrings": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+      "typeCast": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js"
     },
-    "database": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
+    "database": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
     "define": {
-      "freezeTableName": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-      "timestamps": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-      "paranoid": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-      "createdAt": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-      "updatedAt": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-      "deletedAt": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-      "underscored": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js"
+      "freezeTableName": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+      "timestamps": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+      "paranoid": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+      "createdAt": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+      "updatedAt": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+      "deletedAt": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+      "underscored": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js"
     },
-    "username": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-sequelize\\config\\config.default.js"
+    "username": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-sequelize/config/config.default.js"
   },
   "jwt": {
-    "secret": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-    "enable": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-jwt\\config\\config.default.js"
+    "secret": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "enable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-jwt/config/config.default.js"
   },
-  "salt": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-  "redisExpire": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
+  "redis": {
+    "client": {
+      "port": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+      "host": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+      "password": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+      "db": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js"
+    },
+    "default": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-redis/config/config.default.js",
+    "app": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-redis/config/config.default.js",
+    "agent": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-redis/config/config.default.js",
+    "supportTimeCommand": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-redis/config/config.default.js"
+  },
+  "salt": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+  "redisExpire": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
   "security": {
-    "csrf": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-    "domainWhiteList": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-    "protocolWhiteList": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-security\\config\\config.default.js",
-    "defaultMiddleware": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "domainWhiteList": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "protocolWhiteList": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js",
     "xframe": {
-      "enable": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-security\\config\\config.default.js",
-      "value": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js"
     },
     "hsts": {
-      "enable": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-security\\config\\config.local.js",
-      "maxAge": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-security\\config\\config.default.js",
-      "includeSubdomains": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js"
     },
     "dta": {
-      "enable": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js"
     },
     "methodnoallow": {
-      "enable": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js"
     },
     "noopen": {
-      "enable": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js"
     },
     "nosniff": {
-      "enable": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js"
     },
     "referrerPolicy": {
-      "enable": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-security\\config\\config.default.js",
-      "value": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js"
     },
     "xssProtection": {
-      "enable": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-security\\config\\config.default.js",
-      "value": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js"
     },
     "csp": {
-      "enable": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-security\\config\\config.default.js",
-      "policy": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-security\\config\\config.default.js"
+      "enable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js"
     },
     "ssrf": {
-      "ipBlackList": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-security\\config\\config.default.js",
-      "ipExceptionList": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-security\\config\\config.default.js",
-      "checkAddress": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-security\\config\\config.default.js"
+      "ipBlackList": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js"
     }
   },
   "multipart": {
-    "mode": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-    "whitelist": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-    "fileSize": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
-    "autoFields": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-multipart\\config\\config.default.js",
-    "defaultCharset": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fieldNameSize": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fieldSize": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fields": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-multipart\\config\\config.default.js",
-    "files": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-multipart\\config\\config.default.js",
-    "fileExtensions": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-multipart\\config\\config.default.js",
-    "allowArrayField": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-multipart\\config\\config.default.js",
-    "tmpdir": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "mode": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "whitelist": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "fileSize": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
+    "autoFields": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-multipart/config/config.default.js",
     "cleanSchedule": {
-      "cron": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-multipart\\config\\config.default.js",
-      "disable": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-multipart\\config\\config.default.js"
+      "cron": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-multipart/config/config.default.js"
     }
   },
-  "jwtSecret": "E:\\Desktop\\github\\stacy-egg\\config\\config.default.js",
+  "jwtSecret": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/config.default.js",
   "helper": {
-    "shtml": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-security\\config\\config.default.js"
+    "shtml": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security/config/config.default.js"
   },
   "jsonp": {
-    "limit": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-jsonp\\config\\config.default.js",
-    "callback": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-jsonp\\config\\config.default.js",
-    "csrf": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-jsonp\\config\\config.default.js"
+    "limit": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-jsonp/config/config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-onerror\\config\\config.default.js",
-    "appErrorFilter": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-onerror\\config\\config.default.js",
-    "templatePath": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-onerror\\config\\config.default.js"
+    "errorPageUrl": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-onerror/config/config.default.js"
   },
   "i18n": {
-    "defaultLocale": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-i18n\\config\\config.default.js",
-    "dirs": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-i18n\\config\\config.default.js",
-    "queryField": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-i18n\\config\\config.default.js",
-    "cookieField": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-i18n\\config\\config.default.js",
-    "cookieDomain": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-i18n\\config\\config.default.js",
-    "cookieMaxAge": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-i18n\\config\\config.default.js"
+    "defaultLocale": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-i18n/config/config.default.js"
   },
   "watcher": {
-    "type": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-watcher\\config\\config.local.js",
+    "type": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-watcher/config/config.local.js",
     "eventSources": {
-      "default": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-watcher\\config\\config.default.js",
-      "development": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-watcher\\config\\config.default.js"
+      "default": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-watcher/config/config.default.js"
     }
   },
   "customLogger": {
     "scheduleLogger": {
-      "consoleLevel": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-schedule\\config\\config.default.js",
-      "file": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-schedule\\config\\config.default.js"
+      "consoleLevel": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-schedule/config/config.default.js"
     }
   },
   "schedule": {
-    "directory": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-schedule\\config\\config.default.js"
+    "directory": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-schedule/config/config.default.js"
   },
   "development": {
-    "watchDirs": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-development\\config\\config.default.js",
-    "ignoreDirs": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-development\\config\\config.default.js",
-    "fastReady": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-development\\config\\config.default.js",
-    "reloadOnDebug": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-development\\config\\config.default.js",
-    "overrideDefault": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-development\\config\\config.default.js",
-    "overrideIgnore": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-development\\config\\config.default.js"
+    "watchDirs": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-development/config/config.default.js"
   },
   "logrotator": {
-    "filesRotateByHour": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "hourDelimiter": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "filesRotateBySize": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "maxFileSize": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "maxFiles": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "rotateDuration": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
-    "maxDays": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-logrotator\\config\\config.default.js"
+    "filesRotateByHour": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-logrotator/config/config.default.js"
   },
   "static": {
-    "prefix": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-static\\config\\config.default.js",
-    "dir": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-static\\config\\config.default.js",
-    "dynamic": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-static\\config\\config.default.js",
-    "preload": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-static\\config\\config.default.js",
-    "buffer": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-static\\config\\config.default.js",
-    "maxFiles": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-static\\config\\config.default.js"
+    "prefix": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-static/config/config.default.js"
   },
   "view": {
-    "root": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-view\\config\\config.default.js",
-    "cache": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-view\\config\\config.local.js",
-    "defaultExtension": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-view\\config\\config.default.js",
-    "defaultViewEngine": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-view\\config\\config.default.js",
-    "mapping": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-view\\config\\config.default.js"
+    "root": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-view/config/config.default.js"
   },
-  "cors": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-cors\\config\\config.default.js",
-  "validate": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-validate\\config\\config.default.js",
-  "env": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-  "name": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-  "cookies": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-  "proxy": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-  "maxIpsCount": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-  "maxProxyCount": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-  "protocolHeaders": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-  "ipHeaders": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-  "hostHeaders": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
+  "cors": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-cors/config/config.default.js",
+  "validate": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-validate/config/config.default.js",
+  "env": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+  "name": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
   "pkg": {
-    "name": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "version": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "description": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "private": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
+    "name": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "version": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "description": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "private": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
     "egg": {
-      "declarations": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js"
+      "declarations": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
     },
     "dependencies": {
-      "bcryptjs": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "dayjs": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "egg": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "egg-cors": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "egg-jwt": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "egg-scripts": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "egg-sequelize": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "egg-validate": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "jsonwebtoken": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "md5": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "mysql2": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "nanoid": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "svg-captcha": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "uuid": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "xml-js": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "xml2js": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js"
+      "bcryptjs": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "dayjs": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "egg": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "egg-jwt": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "egg-redis": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "egg-sequelize": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "egg-validate": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "jsonwebtoken": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "md5": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "mysql2": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "nanoid": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "svg-captcha": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "uuid": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "xml-js": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "xml2js": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
     },
     "devDependencies": {
-      "autod": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "autod-egg": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "egg-bin": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "egg-ci": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "egg-mock": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "eslint": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "eslint-config-egg": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js"
+      "autod": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
     },
     "engines": {
-      "node": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js"
+      "node": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
     },
     "scripts": {
-      "start": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "stop": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "dev": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "debug": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "test": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "test-local": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "cov": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "lint": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "ci": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "autod": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js"
+      "start": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "stop": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "dev": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "debug": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "test": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "cov": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "lint": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "ci": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "autod": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
     },
     "ci": {
-      "version": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js"
+      "version": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
     },
     "repository": {
-      "type": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "url": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js"
+      "type": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "url": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
     },
-    "author": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "license": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js"
+    "author": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "license": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
   },
-  "baseDir": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-  "HOME": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-  "rundir": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
+  "baseDir": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
   "dump": {
-    "ignore": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js"
+    "ignore": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
   },
   "confusedConfigurations": {
-    "bodyparser": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "notFound": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "sitefile": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "middlewares": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "httpClient": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js"
+    "bodyparser": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
   },
   "notfound": {
-    "pageUrl": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js"
+    "pageUrl": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "cacheControl": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js"
+    "/favicon.ico": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "cacheControl": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
   },
   "bodyParser": {
-    "enable": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "encoding": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "formLimit": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "jsonLimit": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "textLimit": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "strict": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
+    "enable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "strict": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
     "queryString": {
-      "arrayLimit": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "depth": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "parameterLimit": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js"
+      "arrayLimit": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "depth": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
     },
-    "onerror": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js"
+    "onerror": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
   },
   "logger": {
-    "dir": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "encoding": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "env": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "level": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "consoleLevel": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "disableConsoleAfterReady": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "outputJSON": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "buffer": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "appLogName": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "coreLogName": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "agentLogName": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "errorLogName": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
+    "dir": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "env": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "level": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
     "coreLogger": {
-      "consoleLevel": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.local.js"
+      "consoleLevel": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.local.js"
     },
-    "allowDebugAtProd": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "enablePerformanceTimer": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js"
+    "allowDebugAtProd": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "enablePerformanceTimer": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "dnsCacheLookupInterval": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "dnsCacheMaxLength": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
+    "enableDNSCache": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
     "request": {
-      "timeout": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js"
+      "timeout": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "freeSocketTimeout": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "maxSockets": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "maxFreeSockets": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js"
+      "keepAlive": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "freeSocketTimeout": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "maxSockets": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "maxFreeSockets": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js"
+      "keepAlive": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
     }
   },
   "meta": {
-    "enable": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "logging": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js"
+    "enable": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "logging": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
   },
-  "coreMiddleware": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-  "workerStartTimeout": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-  "serverTimeout": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
+  "coreMiddleware": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
   "cluster": {
     "listen": {
-      "path": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "port": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-      "hostname": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js"
+      "path": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "port": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
     }
   },
   "clusterClient": {
-    "maxWaitTime": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js",
-    "responseTimeout": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js"
+    "maxWaitTime": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
   },
-  "onClientError": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\config.default.js"
+  "onClientError": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/config.default.js"
 }

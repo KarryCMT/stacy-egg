@@ -69,7 +69,7 @@
     "onerror": {
       "errorPageUrl": "",
       "appErrorFilter": null,
-      "templatePath": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-onerror\\lib\\onerror_page.mustache"
+      "templatePath": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-onerror/lib/onerror_page.mustache"
     },
     "i18n": {
       "defaultLocale": "en_US",
@@ -82,8 +82,8 @@
     "watcher": {
       "type": "development",
       "eventSources": {
-        "default": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-watcher\\lib\\event-sources\\default",
-        "development": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-watcher\\lib\\event-sources\\development"
+        "default": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-watcher/lib/event-sources/default",
+        "development": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-watcher/lib/event-sources/development"
       }
     },
     "customLogger": {
@@ -116,7 +116,7 @@
         ".mp4"
       ],
       "allowArrayField": false,
-      "tmpdir": "C:\\Users\\karry\\AppData\\Local\\Temp\\egg-multipart-tmp\\stacy-egg",
+      "tmpdir": "/var/folders/s4/f6855yyx2j70w2r7crpmnv7h0000gn/T/egg-multipart-tmp/stacy-egg",
       "cleanSchedule": {
         "cron": "0 30 4 * * *",
         "disable": false
@@ -141,14 +141,14 @@
     },
     "static": {
       "prefix": "/public/",
-      "dir": "E:\\Desktop\\github\\stacy-egg\\app\\public",
+      "dir": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/app/public",
       "dynamic": true,
       "preload": false,
       "buffer": false,
       "maxFiles": 1000
     },
     "view": {
-      "root": "E:\\Desktop\\github\\stacy-egg\\app\\view",
+      "root": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/app/view",
       "cache": false,
       "defaultExtension": ".html",
       "defaultViewEngine": "",
@@ -160,7 +160,7 @@
       "host": "localhost",
       "port": 3306,
       "username": "root",
-      "password": "<String len: 4>",
+      "password": "<String len: 10>",
       "user": "root",
       "logging": true,
       "timezone": "+08:00",
@@ -183,6 +183,18 @@
     "jwt": {
       "secret": "<String len: 5>",
       "enable": false
+    },
+    "redis": {
+      "default": {},
+      "app": true,
+      "agent": false,
+      "supportTimeCommand": true,
+      "client": {
+        "port": 6379,
+        "host": "127.0.0.1",
+        "password": "<String len: 4>",
+        "db": 0
+      }
     },
     "env": "local",
     "name": "stacy-egg",
@@ -208,6 +220,7 @@
         "egg": "^2.15.1",
         "egg-cors": "^2.2.3",
         "egg-jwt": "^3.1.7",
+        "egg-redis": "^2.4.0",
         "egg-scripts": "^2.11.0",
         "egg-sequelize": "^6.0.0",
         "egg-validate": "^2.0.2",
@@ -254,9 +267,9 @@
       "author": "Karry",
       "license": "MIT"
     },
-    "baseDir": "E:\\Desktop\\github\\stacy-egg",
-    "HOME": "C:\\Users\\karry",
-    "rundir": "E:\\Desktop\\github\\stacy-egg\\run",
+    "baseDir": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg",
+    "HOME": "/Users/liaoshen",
+    "rundir": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/run",
     "dump": {
       "ignore": "<Set>"
     },
@@ -289,7 +302,7 @@
       "onerror": "<Function onerror>"
     },
     "logger": {
-      "dir": "E:\\Desktop\\github\\stacy-egg\\logs\\stacy-egg",
+      "dir": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/logs/stacy-egg",
       "encoding": "utf8",
       "env": "local",
       "level": "INFO",
@@ -381,8 +394,8 @@
         "jsonp"
       ],
       "env": [],
-      "from": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\plugin.js",
-      "path": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-onerror",
+      "from": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/plugin.js",
+      "path": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-onerror",
       "version": "2.1.0"
     },
     "session": {
@@ -392,8 +405,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\plugin.js",
-      "path": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-session",
+      "from": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/plugin.js",
+      "path": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-session",
       "version": "3.3.0"
     },
     "i18n": {
@@ -403,8 +416,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\plugin.js",
-      "path": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-i18n",
+      "from": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/plugin.js",
+      "path": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-i18n",
       "version": "2.1.1"
     },
     "watcher": {
@@ -414,8 +427,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\plugin.js",
-      "path": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-watcher",
+      "from": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/plugin.js",
+      "path": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-watcher",
       "version": "3.1.1"
     },
     "multipart": {
@@ -427,8 +440,8 @@
         "schedule"
       ],
       "env": [],
-      "from": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\plugin.js",
-      "path": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-multipart",
+      "from": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/plugin.js",
+      "path": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-multipart",
       "version": "2.13.1"
     },
     "security": {
@@ -440,8 +453,8 @@
         "session"
       ],
       "env": [],
-      "from": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\plugin.js",
-      "path": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-security",
+      "from": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/plugin.js",
+      "path": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-security",
       "version": "2.10.1"
     },
     "development": {
@@ -455,8 +468,8 @@
       "env": [
         "local"
       ],
-      "from": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\plugin.js",
-      "path": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-development",
+      "from": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/plugin.js",
+      "path": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-development",
       "version": "2.7.0"
     },
     "logrotator": {
@@ -468,8 +481,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\plugin.js",
-      "path": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-logrotator",
+      "from": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/plugin.js",
+      "path": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-logrotator",
       "version": "3.1.0"
     },
     "schedule": {
@@ -479,8 +492,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\plugin.js",
-      "path": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-schedule",
+      "from": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/plugin.js",
+      "path": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-schedule",
       "version": "3.6.6"
     },
     "static": {
@@ -490,8 +503,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\plugin.js",
-      "path": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-static",
+      "from": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/plugin.js",
+      "path": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-static",
       "version": "2.2.0"
     },
     "jsonp": {
@@ -503,8 +516,8 @@
         "security"
       ],
       "env": [],
-      "from": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\plugin.js",
-      "path": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-jsonp",
+      "from": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/plugin.js",
+      "path": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-jsonp",
       "version": "2.0.0"
     },
     "view": {
@@ -514,8 +527,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg\\config\\plugin.js",
-      "path": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-view",
+      "from": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg/config/plugin.js",
+      "path": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-view",
       "version": "2.1.3"
     },
     "sequelize": {
@@ -525,8 +538,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "E:\\Desktop\\github\\stacy-egg\\config\\plugin.js",
-      "path": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-sequelize",
+      "from": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/plugin.js",
+      "path": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-sequelize",
       "version": "6.0.0"
     },
     "cors": {
@@ -536,8 +549,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "E:\\Desktop\\github\\stacy-egg\\config\\plugin.js",
-      "path": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-cors",
+      "from": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/plugin.js",
+      "path": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-cors",
       "version": "2.2.3"
     },
     "validate": {
@@ -547,8 +560,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "E:\\Desktop\\github\\stacy-egg\\config\\plugin.js",
-      "path": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-validate",
+      "from": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/plugin.js",
+      "path": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-validate",
       "version": "2.0.2"
     },
     "jwt": {
@@ -560,16 +573,27 @@
         "onerror"
       ],
       "env": [],
-      "from": "E:\\Desktop\\github\\stacy-egg\\config\\plugin.js",
-      "path": "E:\\Desktop\\github\\stacy-egg\\node_modules\\egg-jwt",
+      "from": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/plugin.js",
+      "path": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-jwt",
       "version": "3.1.7"
+    },
+    "redis": {
+      "enable": true,
+      "package": "egg-redis",
+      "name": "redis",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/config/plugin.js",
+      "path": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg/node_modules/egg-redis",
+      "version": "2.4.0"
     }
   },
   "appInfo": {
     "name": "stacy-egg",
-    "baseDir": "E:\\Desktop\\github\\stacy-egg",
+    "baseDir": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg",
     "env": "local",
-    "HOME": "C:\\Users\\karry",
+    "HOME": "/Users/liaoshen",
     "pkg": {
       "name": "stacy-egg",
       "version": "1.0.0",
@@ -584,6 +608,7 @@
         "egg": "^2.15.1",
         "egg-cors": "^2.2.3",
         "egg-jwt": "^3.1.7",
+        "egg-redis": "^2.4.0",
         "egg-scripts": "^2.11.0",
         "egg-sequelize": "^6.0.0",
         "egg-validate": "^2.0.2",
@@ -630,6 +655,6 @@
       "author": "Karry",
       "license": "MIT"
     },
-    "root": "E:\\Desktop\\github\\stacy-egg"
+    "root": "/Users/liaoshen/Desktop/workspace/egg/stacy-egg"
   }
 }
