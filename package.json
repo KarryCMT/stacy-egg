@@ -1,7 +1,7 @@
 {
-  "name": "design-node",
+  "name": "stacy-egg",
   "version": "1.0.0",
-  "description": "design-node",
+  "description": "stacy-egg",
   "private": true,
   "egg": {
     "declarations": true
@@ -37,8 +37,8 @@
     "node": ">=10.0.0"
   },
   "scripts": {
-    "start": "egg-scripts start --daemon --title=design-node",
-    "stop": "egg-scripts stop --title=design-node",
+    "start": "egg-scripts start --daemon --title=stacy-egg",
+    "stop": "egg-scripts stop --title=stacy-egg",
     "dev": "egg-bin dev",
     "debug": "egg-bin debug",
     "test": "npm run lint -- --fix && npm run test-local",

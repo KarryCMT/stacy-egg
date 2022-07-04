@@ -578,7 +578,6 @@
     "path": "/api/base/getPacUrl",
     "regexp": "/^\\/api\\/base\\/getPacUrl(?:\\/(?=$))?$/",
     "stack": [
-      "anonymous",
       "wrappedController"
     ]
   },

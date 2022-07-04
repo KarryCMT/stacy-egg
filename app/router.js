@@ -75,7 +75,7 @@ module.exports = (app) => {
   // 微信支付
   router.post("/api/pay/order", auth, controller.pay.getPay) //调用微信支付
   // 获取知乎热榜
-  router.get("/api/base/getPacUrl", auth, controller.base.getPacUrl)
+  router.get("/api/base/getPacUrl",  controller.base.getPacUrl)
 
   // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   // 商品模块

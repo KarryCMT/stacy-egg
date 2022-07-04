@@ -33,7 +33,7 @@ module.exports = (appInfo) => {
     host: "localhost",
     port: 3306,
     user: "root",
-    password: "1884873780",
+    password: "root",
     logging: true,
     timezone: "+08:00",
     dialectOptions: {
